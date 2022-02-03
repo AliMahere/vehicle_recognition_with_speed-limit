@@ -8,6 +8,7 @@ assessment task part of hiring process in A1Softic
 5. create centroid tracker customized for this task 
 6. functin to claculate pixile speed 
 7. calculate avarge speed and check spped limit for each class 
+8. crop vehicle that exeeds speed limit 
 # run the porject 
 first install packges using 
 `pip install -r requirements.txt`
