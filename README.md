@@ -1,5 +1,5 @@
-### assesmentTask
-assessment task part of hiring process in A1Softic 
+### vehicle recognition with speed limit 
+this repo for vehicle recognition and assining seedlimit based on type of vehicle
 ## work doen
 1. first search for sutable and annotated dataset that can fit this task  
 2. second train costum [yolo5] (https://github.com/ultralytics/yolov5) model 
